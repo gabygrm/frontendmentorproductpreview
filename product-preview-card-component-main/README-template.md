@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot-desktop.png)
-![](./Screenshot-mobile.png)
+![desktop](./design/Screenshot-desktop.png)
+![mobile](./design/Screenshot%20-mobile.png)
 
 
 ### Built with
@@ -36,11 +36,10 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
 I've learn how to properly use flexboxs.
 
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
